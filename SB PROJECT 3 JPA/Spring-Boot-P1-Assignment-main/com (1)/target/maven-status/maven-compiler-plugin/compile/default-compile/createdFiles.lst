@@ -1,0 +1,5 @@
+com\student\com\models\Student.class
+com\student\com\ComApplication.class
+com\student\com\controllers\StudentController.class
+com\student\com\handler\StudentDecoder.class
+com\student\com\models\Course.class
